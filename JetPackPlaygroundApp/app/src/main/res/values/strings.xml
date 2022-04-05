@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">JetPackPlaygroundApp</string>
+  <string name="title_activity_data_store_playground">DataStorePlaygroundActivity</string>
+</resources>
